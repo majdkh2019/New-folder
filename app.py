@@ -496,7 +496,7 @@ else:
     st.markdown("""
     **Authors:**
     * Hamza Tahboub
-    * Majd Igbarea
-    * Marysol Karwan
+    * Majd Igbarie
+    * Marysoul Karawany
     * Igor Kornev
     """)
